@@ -10,7 +10,7 @@
 This project is a web-based decimal to binary converter that visually demonstrates the process of converting a decimal number to its binary equivalent. The project includes an animated representation of the call stack to help users understand how recursion is used during the conversion process.
 
 ## Features
-- Convert any non-negative decimal number to binary.
+- Convert any **non-negative** decimal number to binary.
 - Visualize the recursive process through call stack animation for the input `5`.
 - Interactive UI with real-time results upon submitting a number.
 
