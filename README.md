@@ -29,4 +29,5 @@ Follow these instructions to set up the project and use it on your local machine
 1. Open the web application in your browser
 2. Enter a decimal number in the input field
 3. Click the "Convert" button or press "Enter" to see the binary equivalent
+
 **NOTE:** For the input "5", a visualization of the recursive call stack will appear, showing how the decimal number is converted to binary step-by-step
